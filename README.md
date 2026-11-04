@@ -1,2 +1,2 @@
-# Sert-oCrop
+# SertãoCrop
 Softwere de predição agrícola.
