@@ -1,5 +1,4 @@
-import sys
-from PySide6.QtWidgets import (
+import sys from PySide6.QtWidgets import (
     QApplication, QWidget, QPushButton,
     QVBoxLayout, QLabel
 )
