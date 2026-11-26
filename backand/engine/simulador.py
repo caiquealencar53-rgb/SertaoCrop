@@ -1,7 +1,7 @@
 # backend/engine_aquacrop.py
 # -*- coding: utf-8 -*-
 """Engine de simulação do SertãoCrop.
-Encapsula o AquaCrop-OSPy. Não importa PySide6. Não sabe que existe interface.
+Encapsula o AquaCrop-OSPy.
 """
 
 import warnings
