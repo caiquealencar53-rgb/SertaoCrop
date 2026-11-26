@@ -9,7 +9,7 @@
             "name": "Depurador do Python: Arquivo Atual",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/frontand/main.py",
+            "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal",
             "pythonArgs": ["-B"]
             
