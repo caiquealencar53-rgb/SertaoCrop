@@ -1,0 +1,10 @@
+# Ambiente virtual (dependências instaladas)
+venv/
+
+# Bytecode Python gerado automaticamente
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários de editor
+*.swp
+*.swo
