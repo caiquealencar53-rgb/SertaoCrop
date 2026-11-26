@@ -1,7 +1,13 @@
 """
-Módulo de calibração do SertãoCrop
-Calibra parâmetros do AquaCrop-OSPy (v3.1.0) usando SpotPy (SCE-UA)
-para a cultura de milheto no Semiárido.
+Módulo de calibração histórico do SertãoCrop (preservado para referência).
+
+ATENÇÃO: este script usa ``Crop('Millet')`` e uma produtividade observada
+fixa em 3,0 t/ha. O AquaCrop 3.1.0 instalado não possui milheto e o valor
+observado não tem fonte documentada, portanto o script não é um teste nem
+uma calibração válida. Foi substituído por:
+    - services/calibration_service.py (Sorghum, SCE-UA, status EXPERIMENTAL)
+    - tests/test_calibration.py
+    - venv/bin/python -m unittest discover -s tests -v
 """
 
 import warnings
